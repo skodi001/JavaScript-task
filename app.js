@@ -5,3 +5,4 @@ function isValidPassword(password, username){
     if (tooShort || hasSpace || tooSimilar) return false;
     return true;
 }
+console.log("hello world");
